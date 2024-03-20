@@ -13,5 +13,6 @@ public class App
     }
     private static void tast1(){
         System.out.println("reshenie");
+        System.out.println("hgj");
     }
 }
