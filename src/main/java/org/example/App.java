@@ -12,7 +12,7 @@ public class App
         tast1();
     }
     private static void tast1(){
-        System.out.println("reshenie");
+        System.out.println("reshenietttttt");
         System.out.println("hgj");
     }
 }
